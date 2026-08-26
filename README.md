@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/8840911852/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/8840911852/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0645-set-mismatch](https://github.com/8840911852/leetcode/tree/master/0645-set-mismatch) |
+| [2527-find-xor-beauty-of-array](https://github.com/8840911852/leetcode/tree/master/2527-find-xor-beauty-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/8840911852/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/8840911852/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/8840911852/leetcode/tree/master/0013-roman-to-integer) |
+| [2527-find-xor-beauty-of-array](https://github.com/8840911852/leetcode/tree/master/2527-find-xor-beauty-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -104,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/8840911852/leetcode/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/8840911852/leetcode/tree/master/0645-set-mismatch) |
+| [2527-find-xor-beauty-of-array](https://github.com/8840911852/leetcode/tree/master/2527-find-xor-beauty-of-array) |
 <!---LeetCode Topics End-->
